@@ -756,6 +756,11 @@ h4 {
     padding: 40px 40px 40px 40px;
 }
 
+.new-text {
+    font-size: 20px;
+    font-weight: bold;
+}
+
 .bold-link {
     font-weight: 900;
     text-decoration: underline!important;
